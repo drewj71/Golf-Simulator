@@ -1,0 +1,10 @@
+/*
+
+-- HARDWARE BEING USED
+
+Raspberry Pi 3 Model B+
+Arducam for Raspberry Pi Camera Module v3 WIDE 120(D)
+BlueCoin Starter kit (Augmented acoustics and motion sensing development and prototyping platform)
+Projector w/ Screen
+
+*/
